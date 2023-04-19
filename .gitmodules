@@ -1,0 +1,3 @@
+[submodule "4_ruby_on_rails_installing_rails/my_first_rails_app"]
+	path = 4_ruby_on_rails_installing_rails/my_first_rails_app
+	url = https://github.com/gmartpad/first-rails-project.git
